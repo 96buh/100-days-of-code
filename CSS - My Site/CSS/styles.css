@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+h1 {
+    margin-top: 0;
+}
+.top-container{
+    background-color: #F3DEBA;
+}
+.mid-container{
+    background-color: #ABC4AA;
+    height: 200px;
+    width: 200px;
+}
+.bot-container{
+    background-color: #675D50;
+    height: 200px;
+    width: 200px;
+}
